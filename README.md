@@ -10,12 +10,12 @@ A console-based application that helps users manage their book collections and t
 
 1. Clone the repository:
 
-git clone https://github.com/KarimSasa/BookTracker.git
+    git clone https://github.com/KarimSasa/BookTrackerCSharp.git
 
-cd BookTracker
+    cd BookTrackerCSharp
 
 2. Build the project:
-   dotnet build
+    dotnet build
 
 3. Run the application:
     dotnet run
